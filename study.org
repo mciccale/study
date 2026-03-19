@@ -1,4 +1,5 @@
-#+TITLE: Study
+#+TITLE:  Study
+#+AUTHOR: Marco Ciccalè Baztán
 
 #+BEGIN: clocktable :scope file :maxlevel 2
 #+CAPTION: Clock summary at [2026-03-19 Thu 20:38]
