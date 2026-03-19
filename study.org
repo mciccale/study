@@ -1,0 +1,22 @@
+#+TITLE: Study
+
+#+BEGIN: clocktable :scope file :maxlevel 2
+#+CAPTION: Clock summary at [2026-03-19 Thu 20:38]
+| Headline                                    | Time   |      |
+|---------------------------------------------+--------+------|
+| *Total time*                                | *0:36* |      |
+|---------------------------------------------+--------+------|
+| Books                                       | 0:36   |      |
+| \_  How to Prove It: An Structured Approach |        | 0:36 |
+#+END:
+
+
+* Books
+** How to Prove It: An Structured Approach
+:LOGBOOK:
+CLOCK: [2026-03-19 Thu 20:02]--[2026-03-19 Thu 20:38] =>  0:36
+:END:
+*** [2026-03-19 Thu]
+- Read the intro on math and proofs (with prime numbers as the driving example).
+- Solved exercises 1a, 1b, and barely tried exercise 7.
+- Read section 1.1: "Deductive reasoning and logical connectives".
