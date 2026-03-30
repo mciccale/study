@@ -2,15 +2,17 @@
 #+AUTHOR: Marco Ciccalè Baztán
 
 #+BEGIN: clocktable :scope file :maxlevel 2
-#+CAPTION: Clock summary at [2026-03-22 Sun 13:05]
+#+CAPTION: Clock summary at [2026-03-30 Mon 22:33]
 | Headline                                    |   Time |      |
 |---------------------------------------------+--------+------|
-| *Total time*                                | *1:38* |      |
+| *Total time*                                | *2:11* |      |
 |---------------------------------------------+--------+------|
 | Math                                        |   1:18 |      |
 | \_  How to Prove It: An Structured Approach |        | 1:18 |
 | Japanese                                    |   0:20 |      |
 | \_  Katakana                                |        | 0:20 |
+| Talks                                       |   0:33 |      |
+| \_  KAT                                     |        | 0:33 |
 #+END:
 
 * Math
@@ -23,6 +25,7 @@ CLOCK: [2026-03-19 Thu 20:02]--[2026-03-19 Thu 20:40] =>  0:38
 - Read the intro on math and proofs (with prime numbers as the driving example).
 - Solved exercises 1a, 1b, and barely tried exercise 7.
 - Read section 1.1: "Deductive reasoning and logical connectives".
+- Quick pass over set theory.
 
 * Japanese
 ** Katakana
@@ -30,3 +33,11 @@ CLOCK: [2026-03-19 Thu 20:02]--[2026-03-19 Thu 20:40] =>  0:38
 CLOCK: [2026-03-22 Sun 12:45]--[2026-03-22 Sun 13:05] =>  0:20
 :END:
 *** [2026-03-22 Sun]
+
+* Talks
+** KAT
+:LOGBOOK:
+CLOCK: [2026-03-30 Mon 22:00]--[2026-03-30 Mon 22:33] =>  0:33
+:END:
+*** [2026-03-30 Mon]
+- Preparing resources for the talk.
